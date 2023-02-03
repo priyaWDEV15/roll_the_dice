@@ -4,7 +4,10 @@
  
  ## IMAGE
    ![image](https://user-images.githubusercontent.com/88255480/216435587-c5e8d213-9491-40df-821a-ba3cbbc4b80e.png "ROLL THE DICE")
- 
+## INSTRUCTIONS
+> * First player to get a total score of 100, wins.
+> * This is a game of chance and intuition, player needs to accumulate points at right time to win the game.
+
 ## LABEL DESCRIPTION
 * ### PLAYER LABEL
     * #### Mentions the player.
